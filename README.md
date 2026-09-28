@@ -1,20 +1,20 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# DMTcontrol: gestão de manutenção de DMTs e cilindros de gás 
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** _Nathaly Vitória de Ananias Fernandes_
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** _Chefe Armeiro, responsável pela Oficina de Armamento da Divisão de Reconhecimento."._
 
 ## Apresentação do projeto
 
 <!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
      Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
 
-_Escreva aqui a apresentação do projeto._
+_A Oficina de Armamento controla o estado dos Dispositivos de Manobra Tridimensional (DMT) e a recarga de gás em fichas de papel. Esse processo manual faz com que equipamentos defeituosos voltem ao uso e que faltem suprimentos em momentos críticos. O DMTControl centraliza o histórico de manutenções, o cadastro de peças e o controle de estoque de gás para a Divisão de Reconhecimento. O sistema garante a rastreabilidade das condições de cada DMT antes do envio dos soldados para o campo._
 
 ## Documento do projeto
 
